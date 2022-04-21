@@ -1,2 +1,2 @@
 # LinearRegressionFlask
-Deployment of a Linear Regression model in a Flask application.
+Linear regression model deployed using Flask web application.
